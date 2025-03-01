@@ -9,7 +9,7 @@ void printList(list<string> s){
 	for( i = s.begin(); i != s.end(); i++){
 		cout << *i << " ";
 	}		
-	cout << "\n";	
+	cout << "\n";
 }
 
 int main(){
